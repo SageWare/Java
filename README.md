@@ -5,7 +5,7 @@
 [View Code](https://github.com/SageWare/Java/blob/master/BenchmarkingSorts/BenchmarkingSorts.java)
 
 ### MemeCreator
-* Photo and text creator 
+* Photo and text creator - 
 [Download Jar](https://github.com/SageWare/Java/blob/master/MemeCreator/MemeCreator.jar?raw=true)
 
 ### ObjectsEqualMethodTests
