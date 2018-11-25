@@ -6,6 +6,7 @@
 
 ### MemeCreator
 * Photo and text creator - 
+[Preview](https://github.com/SageWare/Java/blob/master/MemeCreator/MemeCreator.JPG) | 
 [Download Jar](https://github.com/SageWare/Java/blob/master/MemeCreator/MemeCreator.jar?raw=true)
 
 ### ObjectsEqualMethodTests
